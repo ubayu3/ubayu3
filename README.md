@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi, I'm Bayu Srado Situmorang👋</h1>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzb2M0dDdmZW54cm85MnBzdmdsOHhyMDhhemFseWJvano1c3phNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+</div>
 
 <h3 align=left> About Me </h3>
 
