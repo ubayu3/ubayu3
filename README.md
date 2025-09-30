@@ -14,7 +14,7 @@
 
 <div align="center">
 <h2>Connect With Me</h2>
-<a href="https://www.instagram.com/pantherkuning__/?hl=en">
+<a href="https://www.instagram.com/ubayu_?igsh=dnpmMnRsZjJwNDRu">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.tiktok.com/search?q=cara%20live%20di%20tiktok%20dibawah%20100&t=1746846072818">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
